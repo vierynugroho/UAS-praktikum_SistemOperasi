@@ -12,5 +12,5 @@ Fitur ( Aplikasi Saya )
 Fitur : 
 |  |  |
 |--|--|
-| Fitur | Detail |
+| **Fitur** | **Detail** |
 | ini fitur | ini detail |
