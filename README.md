@@ -9,7 +9,6 @@
 
 # SISTEM OPERASI
 ### Fitur VArchiver
-Fitur : 
 |  |  |  |
 |--|--|--|
 |**No**| **Fitur** | **Detail** |
