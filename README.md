@@ -16,4 +16,4 @@ Fitur :
 | ini fitur | ini detail |
 
 ### SCREENSHOT PROGRAM
-![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/BG-Barca.jpg?raw=true)
+![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/VArchiver.png?raw=true)
