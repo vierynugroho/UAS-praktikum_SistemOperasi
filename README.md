@@ -10,10 +10,11 @@
 ## SISTEM OPERASI
 Fitur ( Aplikasi Saya )
 Fitur : 
-|  |  |
-|--|--|
-| **Fitur** | **Detail** |
-| ini fitur | ini detail |
+|  |  |  |
+|--|--|--|
+|**No**| **Fitur** | **Detail** |
+| 1 | Lihat File | Melihat daftar isi sebuah direktori dengan perintah ls |
+| 2 | Hapus File/Folder | Menghapus file dari sebuah direktori dengan perintah rm -i dan menghapus sebuah folder dengan perintah rm -r|
 
 ### SCREENSHOT PROGRAM
 ![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/VArchiver.png?raw=true)
