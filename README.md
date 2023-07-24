@@ -13,7 +13,7 @@ Fitur :
 |  |  |  |
 |--|--|--|
 |**No**| **Fitur** | **Detail** |
-| 1 | Lihat File | Melihat daftar isi sebuah direktori dengan perintah ***ls*** |
+| 1 | Lihat File | Melihat daftar isi sebuah direktori dengan perintah ***ls -l*** |
 | 2 | Hapus File/Folder | Menghapus file dari sebuah direktori dengan perintah ***rm -i*** dan menghapus sebuah folder dengan perintah ***rm -r***|
 | 3 | Copy File | Menyalin file dengan perintah ***cp*** |
 | 4 | Move File | Memeindahkan file dengan perintah ***mv*** |
